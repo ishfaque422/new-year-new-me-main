@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.title{
+position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+color: #FFFFFF;
+
+}
+
+.sub-title{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+color: #FFFFFF;
+}
+
+.primary-button{
+    font-weight: 700;
+    font-size: 16px;
+    background: #005FAC;
+    padding: 18px 35px;
+    border: 0px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 160px;
+    position: absolute;
+    left: 1210px;
+    top: 578px;
+
+    
+
+}
