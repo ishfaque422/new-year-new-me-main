@@ -104,3 +104,46 @@ height: 723.3px;
 left: 264px;
 top: 939px;
 }
+
+.third-section-tagline{
+    position: absolute;
+width: 179px;
+height: 47px;
+left: 765px;
+top: 1792px;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+color: #151414;
+}
+
+.container{
+    position: absolute;
+width: 1141px;
+height: 202.96px;
+left: 230px;
+top: 1889px;
+display: flex;
+gap: 30px;
+padding: 20px;
+text-align: center;
+justify-content: space-around;
+
+}
+
+.third-section-title{
+    font-weight: 700;
+font-size: 20px;
+line-height: 35px;
+text-align: center;
+color: #151414;
+}
+
+.third-section-subtitle{
+    font-weight: 500;
+font-size: 15px;
+line-height: 29px;
+text-align: center;
+color: #737272;
+}
