@@ -147,3 +147,55 @@ line-height: 29px;
 text-align: center;
 color: #737272;
 }
+
+.banner{
+position: absolute;
+border-radius: 8px;;
+border-radius: 8px;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+}
+
+.banner-title{
+    position: absolute;
+width: 459px;
+height: 94px;
+left: 294px;
+top: 2280.96px;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #FFFFFF;
+z-index: 1;
+}
+
+.banner-button{
+
+position: absolute;
+width: 160px;
+height: 64px;
+left: 294px;
+top: 2398.96px;
+border-radius: 8px;
+border-radius: 5px;
+border-color: #FFFFFF;
+background: white;
+font-weight: 600;
+font-size: 20px;
+color: #005FAC;
+border: none;
+z-index: 1;
+}
+
+.color-overlay{
+
+background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+opacity: .4;
+}
